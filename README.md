@@ -64,8 +64,8 @@ It powers ACE systems, which serve as the operational interface for interacting 
 
 ## Internal vs External Roles
 
-- NOVA 1000™ → internal reasoning architecture
-- NOVA ACE™ → external execution interface
+- **NOVA 1000™** → internal reasoning architecture
+- **NOVA ACE™** → external execution interface
 
 NOVA 1000™ remains internal.
 
@@ -276,10 +276,7 @@ Deterministic execution-path resolution.
 
 # ⚡ Deterministic Amplification Model
 
-```text
-10 × 10 × 10 = 1000
-
----
+    10 × 10 × 10 = 1000
 
 The “1000” represents structured evaluation depth across reasoning dimensions.
 
